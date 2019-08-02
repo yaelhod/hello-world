@@ -1,1 +1,2 @@
-This is a text so that I have a file in my git directory 
+This is a text so that I have a file in my git directory.
+This is the second line of text in the file that I am working on.  
