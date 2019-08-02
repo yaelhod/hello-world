@@ -1,0 +1,1 @@
+This is a text so that I have a file in my git directory 
